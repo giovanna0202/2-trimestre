@@ -1,15 +1,11 @@
-#ima1 {width:40%;
+body{ background-color: darkmagenta;
 }
-#ima1 {margin-left: 25%;
+@media screen and (min-width: 800px){
+    .part1 {color: darkorchid ;font-size: 150%;
+    }
+@media screen and (min-width: 600px){
+    .part2{color: mediumorchid;font-size: 180%;
 }
-#ima1 {border-color: black;
-border-width: 20px;
-border-style: double;
-}
-.parte01 {background-color: darkred;
-}
-.parte02 {background-color: brown;
-}
-h4 {text-align: center;
-    font-size: 200%;
-}
+@media screen and (min-width: 400px){
+    .part3{color: violet;font-size: 185%;
+    }
