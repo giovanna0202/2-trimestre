@@ -11,7 +11,9 @@ body{ background-color: darkmagenta;
     }
 .part1{ border-color: black;
   border-style: outset;
-  border-width: 10px;}
+  border-width: 10px;
+}
   .part2{border-color: aliceblue;
 border-style: outset;
-border-width: 10px;}
+border-width: 10px;
+}
