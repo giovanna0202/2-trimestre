@@ -9,3 +9,6 @@ body{ background-color: darkmagenta;
 @media screen and (min-width: 400px){
     .part3{color: violet;font-size: 185%;
     }
+.part1{border-color: black;
+  border-style: outset;
+  border-width: 10px;}
