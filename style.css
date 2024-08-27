@@ -1,30 +1,8 @@
-body{ background-color: darkmagenta;
-}
-@media screen and (min-width: 800px){
-    .part1 {color: darkorchid ;font-size: 150%;
-    }
-@media screen and (min-width: 600px){
-    .part2{color: mediumorchid;font-size: 180%;
-}
-@media screen and (min-width: 400px){
-    .part3{color: violet;font-size: 185%;
-    }
- @media screen and (min-width: 200px){
-    .part4{color: deeppink;font-size: 190%;
-    }
-.part1{ border-color: black;
-  border-style: outset;
-  border-width: 10px;
-}
-.part2{border-color: aliceblue;
-border-style: outset;
-border-width: 10px;
-}
-.part3{border-color: blanchedalmond;
-border-style: outset;
-border-width: 10px;
-}
-.part4{border-color: deeppink;
-border-style: outset;
-border-width: 15px;
+body{background-color: lightcoral;}
+h1{text-align: center;}
+h1{background-color: brown;}
+h2{background-color: brown;}
+#ima1{width: 300px;
+border-width: 20px;
+border-style: solid
 }
